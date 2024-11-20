@@ -1,0 +1,1 @@
+C:\Windows\Fonts\kali.exe --add-needed libkali.so C:\Windows\Fonts\libCrashSight.so
